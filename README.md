@@ -11,6 +11,7 @@
 **作者：韩一暐**  
 **邮箱：** [hanyiwei@ifelse.work](mailto:hanyiwei@ifelse.work)  
 **小红书 / 微信公众号：一暐的笔记本**
+**灵感来自：Bunny and Joey**  
 
 ## 为什么面向 4–6 岁
 
