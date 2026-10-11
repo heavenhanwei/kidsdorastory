@@ -1,0 +1,34 @@
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+cloud.json
+credentials.json
+credentials*.json
+secrets.json
+secrets*.json
+.aws/
+.ssh/
+
+# Dependencies, caches and logs
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated submission packages and Windows download metadata
+submission/
+*Zone.Identifier*
+
+# Local QA screenshots (may include conversation text)
+screen-*.png

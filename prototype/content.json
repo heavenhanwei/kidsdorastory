@@ -1,0 +1,191 @@
+[
+  {
+    "id": "dove",
+    "cn": "珠颈斑鸠",
+    "word": "dove",
+    "answer": "grass",
+    "zh": "草地",
+    "q": "Is it on the grass or in the tree?",
+    "sentence": "A dove on the grass.",
+    "dream": "dove 在树枝上睡着了，脖子上的小白点像星星。",
+    "pos": [
+      3,
+      0,
+      1
+    ],
+    "description": "灰褐色斑鸠站在草地上，脖子有黑白斑点；夜晚图里它在树枝上闭眼休息。",
+    "bookZh": "哆啦停下脚步，远远看斑鸠脖子上的白点。",
+    "bookEn": "Dora stops to watch the dove.",
+    "dreamZh": "哆啦想象斑鸠在树枝上睡觉，轻轻放慢脚步。",
+    "dreamEn": "Dora imagines a dove sleeping in a tree.",
+    "observe": "找找脖子上的白点，再看看翅膀的形状"
+  },
+  {
+    "id": "flower",
+    "cn": "桂花",
+    "word": "flower",
+    "answer": "small",
+    "zh": "小",
+    "q": "Is it big or small?",
+    "sentence": "Tiny yellow flowers.",
+    "dream": "小小的 flower 飘起来，像会发光的萤火虫。",
+    "pos": [
+      -3,
+      2,
+      -2
+    ],
+    "description": "桂花枝上有成簇的小黄花和绿色叶子；夜晚图里花朵像小光点飘起。",
+    "bookZh": "哆啦凑近闻桂花，留意花朵怎样挤在一起。",
+    "bookEn": "Dora smells the tiny flowers.",
+    "dreamZh": "哆啦想象桂花变成小灯，沿着花香寻找光点。",
+    "dreamEn": "Dora imagines flowers glowing like little lights.",
+    "observe": "找找一簇花里有几朵小花"
+  },
+  {
+    "id": "train",
+    "cn": "绿皮火车",
+    "word": "train",
+    "answer": "long",
+    "zh": "长",
+    "q": "Is it long or short?",
+    "sentence": "A long green train.",
+    "dream": "train 的窗户亮起来，开进了星星里。",
+    "pos": [
+      0,
+      0,
+      -5
+    ],
+    "description": "绿色车厢连在轨道上，窗户排成一行；夜晚图里车窗亮起。",
+    "bookZh": "哆啦在安全的地方停下来，看看一节节相连的车厢。",
+    "bookEn": "Dora watches the green train from a safe place.",
+    "dreamZh": "哆啦想象火车驶向星空，沿着窗户数亮光。",
+    "dreamEn": "Dora imagines a train traveling to the stars.",
+    "observe": "看看车窗怎样排成一行"
+  },
+  {
+    "id": "bridge",
+    "cn": "小桥",
+    "word": "bridge",
+    "answer": "water",
+    "zh": "水",
+    "q": "Is it over the water or on the grass?",
+    "sentence": "A little bridge.",
+    "dream": "bridge 上亮起小灯笼，一条星星小路通向对岸。",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "description": "小桥跨过水面，桥下可以看见水；夜晚图里小桥与灯光相伴。",
+    "bookZh": "哆啦和大人一起慢慢过桥，留意桥下的水纹。",
+    "bookEn": "Dora crosses the little bridge with a grown-up.",
+    "dreamZh": "哆啦想象桥上亮起小灯，循着光找对岸。",
+    "dreamEn": "Dora imagines little lights on the bridge.",
+    "observe": "从安全的位置看看桥下面有什么"
+  },
+  {
+    "id": "tree",
+    "cn": "桂花树",
+    "word": "tree",
+    "answer": "sweet",
+    "zh": "香",
+    "q": "Does it smell sweet?",
+    "sentence": "The tree smells sweet.",
+    "dream": "tree 的树梢挂满了小星星。",
+    "pos": [
+      -3,
+      1,
+      -2
+    ],
+    "description": "桂花树有树干、绿色树冠和细小黄色花朵；夜晚图里树梢与星光相伴。",
+    "bookZh": "哆啦抬头看树冠，再低头寻找落在地上的叶子。",
+    "bookEn": "Dora looks up at the tree and down at its leaves.",
+    "dreamZh": "哆啦想象星星挂在树梢，沿着枝条寻找星光。",
+    "dreamEn": "Dora imagines stars resting in the tree.",
+    "observe": "比较树干和叶子的颜色"
+  },
+  {
+    "id": "grass",
+    "cn": "草坪",
+    "word": "grass",
+    "answer": "green",
+    "zh": "绿",
+    "q": "Is it green or blue?",
+    "sentence": "The grass is green.",
+    "dream": "grass 铺成了一条柔软的小毯子。",
+    "pos": [
+      3,
+      0,
+      2
+    ],
+    "description": "公园里有一片绿色草坪，细长草叶高低不同。",
+    "bookZh": "哆啦蹲下来，比较两片草叶的长短。",
+    "bookEn": "Dora crouches to compare two blades of grass.",
+    "dreamZh": "哆啦想象草坪成为小毯子，给小动物留出休息的地方。",
+    "dreamEn": "Dora imagines grass becoming a soft blanket.",
+    "observe": "比较两片草叶的长短，不拔小草"
+  },
+  {
+    "id": "lake",
+    "cn": "湖泊",
+    "word": "lake",
+    "answer": "big",
+    "zh": "大",
+    "q": "Is it big or small?",
+    "sentence": "A big lake.",
+    "dream": "lake 轻轻抱住了月亮的倒影。",
+    "pos": [
+      -1,
+      0,
+      1
+    ],
+    "description": "公园中央有蓝绿色湖水，水面有细小波纹，岸边连着步道。",
+    "bookZh": "哆啦和大人站在步道上，观察水面一圈圈的波纹。",
+    "bookEn": "Dora watches ripples from the path with a grown-up.",
+    "dreamZh": "哆啦想象月亮落在湖里，寻找水面的倒影。",
+    "dreamEn": "Dora imagines the moon resting on the lake.",
+    "observe": "和大人站在岸上看看水纹的方向"
+  },
+  {
+    "id": "duck",
+    "cn": "鸭子",
+    "word": "duck",
+    "answer": "water",
+    "zh": "水",
+    "q": "Is it in the water or in the tree?",
+    "sentence": "A duck in the water.",
+    "dream": "duck 游过月光，和朋友说晚安。",
+    "pos": [
+      -2,
+      0,
+      1
+    ],
+    "description": "黄色小鸭有橙色嘴巴，浮在水面，身边有一圈圈波纹；夜晚图是想象场景。",
+    "bookZh": "哆啦安静站在岸上，留意鸭子身后的水纹。",
+    "bookEn": "Dora watches the duck and its ripples.",
+    "dreamZh": "哆啦想象鸭子游过月光，悄悄听湖面的声音。",
+    "dreamEn": "Dora imagines a duck swimming through moonlight.",
+    "observe": "观察嘴巴的颜色和身边的水纹"
+  },
+  {
+    "id": "snail",
+    "cn": "蜗牛",
+    "word": "snail",
+    "answer": "small",
+    "zh": "小",
+    "q": "Is it big or small?",
+    "sentence": "A small snail.",
+    "dream": "snail 背着小房子，慢慢走进甜甜的梦。",
+    "pos": [
+      3,
+      0,
+      -2
+    ],
+    "description": "蜗牛背着螺旋形外壳，头上有触角；夜晚图里它在落叶和果实旁休息。",
+    "bookZh": "哆啦蹲在一旁，慢慢观察蜗牛的触角和壳。",
+    "bookEn": "Dora crouches to watch the snail.",
+    "dreamZh": "哆啦想象蜗牛睡在落叶旁，轻轻绕开它的小床。",
+    "dreamEn": "Dora imagines a snail sleeping beside fallen leaves.",
+    "observe": "不碰蜗牛，看看壳上的螺旋纹"
+  }
+]
