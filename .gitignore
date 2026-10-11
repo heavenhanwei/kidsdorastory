@@ -32,3 +32,9 @@ submission/
 
 # Local QA screenshots (may include conversation text)
 screen-*.png
+
+# Cloudflare build and development secrets
+.wrangler/
+dist/
+.dev.vars
+.dev.vars.*

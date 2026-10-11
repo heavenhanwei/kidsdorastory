@@ -1,0 +1,14 @@
+{
+  "name": "duola-storybook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-cloud.mjs",
+    "test:cloud": "node --test cloudflare/worker.test.mjs",
+    "deploy": "node scripts/build-cloud.mjs && wrangler deploy",
+    "dev:cloud": "node scripts/build-cloud.mjs && wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.149.0"
+  }
+}
